@@ -26,9 +26,10 @@ This is an AI-powered Career Guidance Agent built with FastAPI that helps users 
 git clone https://github.com/ProAdiYT/CareerPathAI-Agent.git
 cd CareerPathAI-Agent
 
-### 2️⃣ Create and Activate Virtual Environment
-
-```bash
+2️⃣ Create and Activate Virtual Environment
+bash
+Copy
+Edit
 python -m venv venv
 venv\Scripts\activate   # For Windows
 
